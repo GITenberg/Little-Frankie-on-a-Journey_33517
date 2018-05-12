@@ -1,0 +1,37 @@
+_repo: Little-Frankie-on-a-Journey_33517
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33517-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Baker, Harriette Newell Woods
+    - Aunt Hattie
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Birthdays -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Learning -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: Little Frankie on a Journey
+url: http://www.gutenberg.org/ebooks/33517
